@@ -1,5 +1,7 @@
 # CoVital Mission 1
 
+# THIS REPO HAS BEEN DISCONTINUED
+
 The first leg in project Covital's mission is to provide a webapp through which people can self-monitor their symptoms.
 
 ## Installation for development
