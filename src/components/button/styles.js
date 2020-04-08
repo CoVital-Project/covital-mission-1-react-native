@@ -1,7 +1,7 @@
 export default {
     button: {
         alignItems: 'center',
-        padding: 10,
+        padding: 15,
         borderRadius: 10,
     },
 
